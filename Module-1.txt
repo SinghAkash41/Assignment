@@ -1,0 +1,65 @@
+1. Are the HTML tags and elements the same thing 					
+Ans. HTML Elements are components that are used in HTML Page
+
+2. What are tags and attributes inHTML					
+Ans Attributes are always specified in the start tag 
+
+3. What are void element in HTML					
+Ans .Base.br.input 
+
+4. What are HTML Entities					
+Ans.  A Piece of text ("string") that begins with an semicolon(;)
+
+5.What are the various formatting tags in HTML?					
+ Ans.<b>-Bold text 	<Storn>-Important text  				
+             					
+6..How is cell Padding different from cell Spacing?					
+Ans . Cellpadding basically defines the Space present between a table cell border and the content present in it .					
+           Cellspacing basically defines the space present between individual adjacent Cels	
+
+7. How can we club two or more  rows or columns into a single row or column HTML table?					
+Ans.Using the colspan attribute in a <td>HTML tag (table data)	
+
+8. Wht is the difference between a block -level element and an inline element ?					
+Ans.Block element always starts from a new line	
+    inline element.
+    div.
+    dt.
+    table.
+
+9.How to create a Hyperlink in HTML?					
+Ans. Select the text or picture that you want to display as a hyperlink	
+
+10.What is the use of a span tag?Explain with example?					
+Ans.The ,Span>tag is an inline container used to marker up part of a text or a part of document. The <span> tag is easily styled by CSS .The <span>tag is   much like the <div> element,but <div>is a block -level
+
+ 11.What is the use of an iframe tag?
+  Ans.The <iframe> tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+  The <iframe> tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+
+  12.How to insert a picture into a background image of a web page?
+  Ans.Background image is using the background image attribute inside the <body> tag.
+
+  13.How are active links different from normal links?
+  Ans. An unvisited link is underlined and blue. a active link is underlined and red.
+
+  14.What are the different tags to separate sections of text?
+  Ans.br> tag – It is used to separate the line of tex
+      .<p> tag–This tag is used to write a paragraph of text
+
+  15.What is SVG?
+  Ans.SVG stands for Scalable Vector Graphics · SVG is used to define vector-based graphics for the Web · SVG defines the graphics in XML format ·
+
+  16.What is difference between HTML and XHTML?
+  Ans.XHTML was developed to make HTML more extensible and flexible to work with other data formats (such as XML). In addition, browsers ignore errors in HTML pages, and try to display the website even if it has some errors in the markup. So XHTML comes with a much stricter error handling.
+
+  17.What are logical and physical tags in HTML?
+  Ans.logical tag
+      Address
+      cite
+      code
+      Del
+      Phycial tag
+      B
+      Sub
+      sup
