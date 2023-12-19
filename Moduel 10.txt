@@ -1,0 +1,12 @@
+1.Explain Life cycle in Class Component and functional component with Hooks?
+Ans.
+In React, components are the building blocks of a user interface, and they can be either class components or functional components. The introduction of Hooks in React 16.8 allows functional components to use state and other React features without needing to write a class.
+
+
+.Lifecycle class component
+
+In React, components are the building blocks of a user interface, and they can be either class components or functional components. The introduction of Hooks in React 16.8 allows functional components to use state and other React features without needing to write a class.
+
+.Functional Component with Hooks:
+
+Functional components traditionally didn't have access to state or life cycle methods. With the introduction of Hooks, functional components can now manage state and side effects. The key Hooks for managing component life cycle are:
